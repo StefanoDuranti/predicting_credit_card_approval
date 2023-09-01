@@ -20,4 +20,4 @@ We delve into exploratory data analysis to gain insights and develop our intuiti
 - Machine Learning Model Development:
 We build a robust machine learning model capable of predicting credit card approval outcomes.
 
-Feel free to explore our project, and if you have any questions or suggestions, don't hesitate to reach out. Your feedback is highly appreciated!"
+Feel free to explore our project, and if you have any questions or suggestions, don't hesitate to reach out. Your feedback is highly appreciated!
